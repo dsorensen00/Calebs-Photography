@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display|Encode+Sans+Condensed&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-weight: 800 !important;
+  font-size: larger;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
